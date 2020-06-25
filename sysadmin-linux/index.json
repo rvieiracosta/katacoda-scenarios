@@ -1,0 +1,34 @@
+{
+  "title": "CentOS comandos básicos",
+  "description": "Exercitar comandos básicos no CentOS",
+  "difficulty": "Beginner",
+  "time": "60 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Verificando em que diretório estamos",
+        "text": "step1.md"
+      },
+      {
+        "title": "Listando conteúdo do diretório",
+        "text": "step2.md"
+      },
+      {
+        "title": "Movendo nos diretórios",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "centos"
+  }
+}
