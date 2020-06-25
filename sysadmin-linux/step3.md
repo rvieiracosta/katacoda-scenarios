@@ -2,5 +2,5 @@
 
 Entre no diretório destinado a armazenar aplicações de terceiros
 
-cd /opt {{execute}}
+cd /opt{{execute}}
 

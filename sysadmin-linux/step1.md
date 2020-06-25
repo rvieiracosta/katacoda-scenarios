@@ -2,5 +2,5 @@
 
 Execute o comando que mostra em que diretório estamos:
 
-pwd {{execute}}
+pwd{{execute}}
 
