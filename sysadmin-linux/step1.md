@@ -1,6 +1,10 @@
 ## Atividade 01 - Diretório atual
 
-Execute o comando que mostra em que diretório estamos:
 
-`pwd`{{execute}}
+Em qual diretório você está nesse momento?
 
+>>Multiple Choice <<
+[*] /root
+[ ] /home
+[ ] /opt
+[ ] /usr
