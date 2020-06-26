@@ -3,8 +3,8 @@
 
 Em qual diretório você está nesse momento?
 
->>Multiple Choice <<
-[*] /root
-[ ] /home
-[ ] /opt
-[ ] /usr
+>>Apenas UMA resposta Correta <<
+(*) /root
+( ) /home
+( ) /opt
+( ) /usr
